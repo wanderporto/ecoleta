@@ -58,9 +58,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :iphone: Resultado Mobile
 
 <h1 align="center">
-    <img alt="Mobile Home" src="img/mobile-front-point.png" width="300px">
+    <img alt="Mobile Home" src="img/mobile-front-home.jpg" width="300px">
     <img alt="Mobile Point" src="img/mobile-front-home.jpg" width="300px">
-    <img alt="Mobile Point" src="img/mobile-front-point.jpg" width="300px">
 </h1>
 
 <a id="como-usar"></a>
