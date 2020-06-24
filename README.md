@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".img/logo.png">
+    <img alt="Logo" title="#logo" width="300px" src="img/logo.svg">
     <br><br>
     <b>Recicle! ajude o meio ambiente!</b>  
     <br>
@@ -33,7 +33,7 @@ Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>N
 
 ## :books: Documentação
 
-Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena **[DOCUMENTAÇÃO](DOCUMENTATION.md)** para ajudar quem esta iniciando com **TypeScript**, **Node**, **ReactJS** e **React Native**.
+Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar **[DOCUMENTAÇÃO](DOCUMENTATION.md)** para ajudar quem esta iniciando com **TypeScript**, **Node**, **ReactJS** e **React Native**.
 
 <a id="tecnologias-utilizadas"></a>
 
@@ -51,15 +51,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
 <h1 align="center">
-    <img alt="Web" src="img/web-front-home.png" width="900px">
-    <img alt="Web" src="img/web-front-point.png" width="900px">
+    <img alt="Web Home" src="img/web-front-home.png" width="900px">
+    <img alt="Web Point" src="img/web-front-point.png" width="900px">
 </h1>
 
 ## :heavy_check_mark: :iphone: Resultado Mobile
 
 <h1 align="center">
-    <img alt="Mobile Home" src=".github/Home.png" width="300px">
-    <img alt="Mobile Detail" src=".github/Detail.svg" width="300px">
+    <img alt="Mobile Home" src="img/mobile-front-point.png" width="300px">
+    <img alt="Mobile Point" src="img/mobile-front-home.jpg" width="300px">
 </h1>
 
 <a id="como-usar"></a>
@@ -110,15 +110,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-## :mortar_board: Quem ministrou?
-
-As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week**.
-
-## :memo: License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
 
 <h4 align="center">
     Feito com 💜 by <a href="https://www.linkedin.com/in/wander-wang-porto/" target="_blank">Wander Wang</a>
