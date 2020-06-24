@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".img/logo.png">
+    <img alt="Logo" title="#logo" width="300px" src="img/logo.png">
     <br><br>
     <b>Recicle! ajude o meio ambiente!</b>  
     <br>
@@ -58,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :iphone: Resultado Mobile
 
 <h1 align="center">
-    <img alt="Mobile Home" src="img/mobile-front-point" width="300px">
+    <img alt="Mobile Home" src="img/mobile-front-point.png" width="300px">
     <img alt="Mobile Point" src="img/mobile-front-point.jpg" width="300px">
 </h1>
 
