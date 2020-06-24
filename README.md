@@ -59,7 +59,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <h1 align="center">
     <img alt="Mobile Home" src="img/mobile-front-home.jpg" width="300px">
-    <img alt="Mobile Point" src="img/mobile-front-home.jpg" width="300px">
+    <img alt="Mobile Point" src="img/mobile-front-point.jpg" width="300px">
 </h1>
 
 <a id="como-usar"></a>
